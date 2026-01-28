@@ -9,7 +9,7 @@ This tool is useful for **log management**, **system cleanup**, and **DevOps aut
 
 ## 🔗 Project URL
 
-👉 https://github.com/adhithyan-31/log-archive-tool
+👉 https://github.com/adhithyan-31/logfile.sh
 
 ---
 
